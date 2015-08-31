@@ -27,7 +27,7 @@ there are rest-api calls available for build-plans/projects though.)
 ## Setup
 
 ## Usage
-class {'deploy' :
+class {'triggerdeployjob' :
   stage => 'deploystage',
 }
 
